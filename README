@@ -1,0 +1,3 @@
+This is a API server that uses clean architecture which is seperated into two layers: one of them processes parameter, and the other deals with database.
+Golang and gin are used as language and HTTP framework. 
+PostgreSQL is used as my database. 
